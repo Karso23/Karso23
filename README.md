@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">Full Stack developer from Mexico</h3>
 
-<p></p>
+<p>I’ve been a tech enthusiast since I was young. Learning new technologies has always been an important part of my life, now after learning coding i found it to be one of my biggest passions, since then I have been dedicated to improving my skills and building innovative projects..</p>
 
 - 🌱 I’m currently learning **TypeScript, Vue, Next, Bootstrap**
 
