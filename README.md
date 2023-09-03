@@ -27,7 +27,7 @@
   </a> 
 
    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-logo" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-logo" width="40" height="40"/>
   </a> 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
